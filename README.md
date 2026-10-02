@@ -19,19 +19,19 @@
 
 ---
 
-### 🧑‍💻 `whoami`
+### 🧑‍💻 About Me
 
-```js
-const aabhas = {
-  role: "Full-Stack Developer (MERN)",
-  education: "B.Tech CSE @ AKGEC Ghaziabad — Class of 2028",
-  currentlyLearning: ["Core CS fundamentals", "Data Structures & Algorithms", "System design basics"],
-  building: "Portfolio projects with real engineering depth",
-  lookingFor: ["Internships", "Team projects", "Open-source collaboration"],
-  contact: "aabhas463@gmail.com",
-  funFact: "I rebuild what I learn into projects so it actually sticks 🔁",
-};
-```
+I'm a **Full-Stack Developer (MERN)** who enjoys building complete products from database to UI, and then digging into how things work underneath.
+
+| | |
+|:--|:--|
+| 🎓 **Education** | B.Tech CSE at Ajay Kumar Garg Engineering College, Ghaziabad (Class of 2028) |
+| 🚀 **Building** | Portfolio projects with real engineering depth |
+| 📚 **Learning** | Core CS fundamentals, Data Structures & Algorithms, System design basics |
+| 🤝 **Looking for** | Internships, team projects, open-source collaboration |
+| 📫 **Contact** | [aabhas463@gmail.com](mailto:aabhas463@gmail.com) |
+
+> 🔁 *I rebuild what I learn into projects so it actually sticks.*
 
 ---
 
