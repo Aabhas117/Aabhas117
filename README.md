@@ -37,8 +37,6 @@ I'm a **Full-Stack Developer (MERN)** who enjoys building complete products from
 
 ### 🚀 Featured Projects
 
-<!-- TODO: replace every "#" with your real GitHub / live demo links -->
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -48,7 +46,8 @@ A YouTube-style full-stack platform: user auth, video upload & playback, and a r
 
 **Stack:** React · Vite · Node.js · Express · MongoDB
 
-[📂 Source](#) &nbsp;|&nbsp; [🌐 Live Demo](#)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aabhas117/Vidyora-)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://vidyora-amber.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +57,8 @@ Complete shopping app: product catalog, cart, JWT-based auth and order flow.
 
 **Stack:** React · Node.js · Express · MongoDB · JWT
 
-[📂 Source](#) &nbsp;|&nbsp; [🌐 Live Demo](#)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aabhas117/My-Grocery)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://my-grocery-one.vercel.app/)
 
 </td>
 </tr>
