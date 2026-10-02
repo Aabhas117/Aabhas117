@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Hire%20Me-aabhas463@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabhas463@gmail.com)
+[![Email](https://img.shields.io/badge/Hire%20Me-aabhas463@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabhas147@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabhas-kumar-158b6b326)
 [![Instagram](https://img.shields.io/badge/Instagram-@aabhas__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aabhas__11)
 
@@ -29,7 +29,7 @@ I'm a **Full-Stack Developer (MERN)** who enjoys building complete products from
 | 🚀 **Building** | Portfolio projects with real engineering depth |
 | 📚 **Learning** | Core CS fundamentals, Data Structures & Algorithms, System design basics |
 | 🤝 **Looking for** | Internships, team projects, open-source collaboration |
-| 📫 **Contact** | [aabhas463@gmail.com](mailto:aabhas463@gmail.com) |
+| 📫 **Contact** | [aabhas463@gmail.com](mailto:aabhas147@gmail.com) |
 
 > 🔁 *I rebuild what I learn into projects so it actually sticks.*
 
