@@ -26,7 +26,7 @@
 - 🚀 MERN full-stack developer who loves building things end to end
 - 🧠 Currently going deeper into core CS fundamentals and system-level engineering
 - 🤝 Looking to work with a **team** on internships, jobs and real projects
-- 📫 Reach me at **aabhas463@gmail.com**
+- 📫 Reach me at **aabhas147@gmail.com**
 
 ---
 
